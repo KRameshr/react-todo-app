@@ -4,7 +4,7 @@ A modern Todo List application built using **React.js** and functional component
 This project demonstrates core React concepts such as state management, component architecture, event handling, and UI interactions.
 
 ---
-
+```
 ## 🚀 Features
 
 ✅ Add new todos
@@ -14,7 +14,7 @@ This project demonstrates core React concepts such as state management, componen
 ✅ Modern UI with icons (lucide-react)
 ✅ Responsive and clean design
 ✅ Component-based architecture
-
+```
 ---
 
 ## 🧠 Concepts Used
